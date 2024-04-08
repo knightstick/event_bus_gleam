@@ -15,7 +15,6 @@ pub type Event {
   Event(Data)
 }
 
-// TODO: Json?
 pub type Data =
   String
 
